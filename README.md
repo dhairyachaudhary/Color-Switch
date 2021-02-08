@@ -46,6 +46,9 @@ Feel free to make bug reports on our issues. You can reach out to either of us i
 🎨 Dhairya: dhairya19035@iiitd.ac.in
 
 
+*****
+
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/55681207/107292614-27c52b00-6a90-11eb-8e9a-a082e2f5f4c6.png">
 </p>
@@ -61,5 +64,6 @@ Tons of help and debugging- the folks over at https://stackoverflow.com/
 
 *****
 
-
-##### Made with ❤️ by Team RnD
+<p align="center">
+Made with ❤️ by Team RnD
+</p>
