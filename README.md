@@ -18,7 +18,7 @@ We have added two modes- the classic 'classic mode' and our 'frenzy mode'. The c
 
 ## About this Repo 🛰️
 This repository contains:
-* The UML diagrams (check them out to get a nice overview of things)
+* The UML diagrams (Have a look to get a nice overview of things)
 * The static GUI (present in a zipped folder)
 * src folder for the project. This contains the asset and sample folder.
 * This little readme
