@@ -28,7 +28,8 @@ This repository contains:
 This project uses-
 * [JDK 15.0.2](https://www.oracle.com/in/java/technologies/javase-jdk15-downloads.html)
 * [JavaFX 11.0.1](https://gluonhq.com/products/javafx/)
-Gotta have this up and runnung. We worked on IntelliJ IDEA community version, and oh boy we do so love it (10/10 recommend). [This](https://openjfx.io/openjfx-docs/) article might prove helpful while setting up for any environment.
+
+Gotta have this up and running. We worked on IntelliJ IDEA community version, and oh boy we do so love it (10/10 recommend). [This](https://openjfx.io/openjfx-docs/) article might prove helpful while setting up for any environment.
 
 
 ## Contributions 👽
@@ -61,4 +62,4 @@ Tons of help and debugging- the folks over at https://stackoverflow.com/
 *****
 
 
-**Made with ❤️ by Team RnD
+##### Made with ❤️ by Team RnD
